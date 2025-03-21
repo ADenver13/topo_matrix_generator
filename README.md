@@ -1,2 +1,2 @@
 # topo_matrix_generator
-A tool for generating topo matrixes using open meteo
+A tool for generating topographic matrixes using open meteo
